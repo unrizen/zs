@@ -1,7 +1,7 @@
 # zs
 Enter the world of TODO-driven development.
 
-![](https://github.com/unrizen/zs/blob/main/demo.gif)
+![](https://raw.githubusercontent.com/unrizen/zs/refs/heads/dev/demo.gif)
 
 Designed for use with groq + nixos + vim.
 
