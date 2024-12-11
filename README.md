@@ -33,4 +33,4 @@ Currently accepting PRs for the following issues:
 Any help is appreciated ❤️
 
 # Support
-[discord](https://discord.gg/kABMK5pHAA) | [𝕏.com](https://x.com/_unrizen)
+[Join the Discord](https://discord.gg/kABMK5pHAA) or [𝕏.com/_unrizen](https://x.com/_unrizen)
