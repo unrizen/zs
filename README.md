@@ -16,9 +16,20 @@ FILE_PATH="$HOME/.local/bin/zs"; DOWNLOAD_URL="https://raw.githubusercontent.com
 ```
 
 # How to Use
-Just highlight a snippet of code in vim and pipe it to `zs`. Todo items found within the snippet will be completed and injected back into the buffer.
+1. Write a TODO comment.
+```javascript
+// TODO: 10 the amount of cowbell
+console.log("🐄🛎️")
+```
+
+2. Highlight a snippet of code in vim and pipe it to `zs`.
 ```
 :'<,'>!zs
+```
+
+3. The TODOs in the snippet will be completed and injected back into the buffer.
+```javascript
+console.log("🐄🛎️🐄🛎️🐄🛎️🐄🛎️🐄🛎️🐄🛎️🐄🛎️🐄🛎️🐄🛎️🐄🛎️")
 ```
 
 # How to Contribute
@@ -32,4 +43,4 @@ Currently accepting PRs for the following issues:
 
 Any help is appreciated ❤️
 
-[Discord](https://discord.gg/kABMK5pHAA) | [𝕏](https://x.com/_unrizen)
+[𝕏](https://x.com/_unrizen) | [Discord](https://discord.gg/kABMK5pHAA)
