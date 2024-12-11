@@ -20,7 +20,13 @@ FILE_PATH="$HOME/.local/bin/zs"; DOWNLOAD_URL="https://raw.githubusercontent.com
 ```
 :'<,'>!zs
 ```
-# Help is appreciated ❤️
+# Contributing
+
+Submit an issue is you find any bugs.
+
+Currently accepting PRs for the following issues:
 - [ ] [nixos packaging](https://github.com/unrizen/zs/issues/1)
 - [ ] [env var validation](https://github.com/unrizen/zs/issues/2)
 - [ ] [language-specific error formatting](https://github.com/unrizen/zs/issues/3)
+
+Any help is appreciated ❤️
