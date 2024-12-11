@@ -18,7 +18,7 @@ FILE_PATH="$HOME/.local/bin/zs"; DOWNLOAD_URL="https://raw.githubusercontent.com
 # How to Use
 1. Write a TODO comment.
 ```javascript
-// TODO: 10 the amount of cowbell
+// TODO: Add more cowbell
 console.log("🐄🛎️")
 ```
 
