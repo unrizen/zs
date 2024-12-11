@@ -1,6 +1,8 @@
 # zs
 Enter the world of TODO-driven development.
 
+![](https://github.com/unrizen/zs/blob/main/demo.gif)
+
 Designed for use with groq + nixos + vim.
 
 **1. save your api key**
