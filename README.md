@@ -31,3 +31,6 @@ Currently accepting PRs for the following issues:
 - [ ] [language-specific error formatting](https://github.com/unrizen/zs/issues/3)
 
 Any help is appreciated ❤️
+
+# Support
+[discord](https://discord.gg/kABMK5pHAA) | [𝕏.com](https://x.com/_unrizen)
