@@ -34,12 +34,12 @@ console.log("🐄🛎️🐄🛎️🐄🛎️🐄🛎️🐄🛎️🐄🛎️�
 
 # How to Contribute
 
-Submit an issue is you find any bugs.
+Submit an issue if you find any bugs.
 
-Currently accepting PRs for the following issues:
-- [ ] [nixos packaging](https://github.com/unrizen/zs/issues/1)
-- [ ] [env var validation](https://github.com/unrizen/zs/issues/2)
-- [ ] [language-specific error formatting](https://github.com/unrizen/zs/issues/3)
+Accepting PRs for the following issues:
+- [ ] [Nixos packaging](https://github.com/unrizen/zs/issues/1)
+- [ ] [Env var validation](https://github.com/unrizen/zs/issues/2)
+- [ ] [Language-specific error formatting](https://github.com/unrizen/zs/issues/3)
 
 Any help is appreciated ❤️
 
