@@ -1,4 +1,4 @@
-# zs - Enter the world of TODO-driven development.
+# zs - autocomplete your TODOs w/ ai
 
 ![](https://raw.githubusercontent.com/unrizen/zs/refs/heads/dev/demo.gif)
 
@@ -32,15 +32,11 @@ console.log("🐄🛎️")
 console.log("🐄🛎️🐄🛎️🐄🛎️🐄🛎️🐄🛎️🐄🛎️🐄🛎️🐄🛎️🐄🛎️🐄🛎️")
 ```
 
-# How to Contribute
-
-Submit an issue if you find any bugs.
-
-Accepting PRs for the following issues:
+# Open Issues
 - [ ] [Nixos packaging](https://github.com/unrizen/zs/issues/1)
 - [ ] [Env var validation](https://github.com/unrizen/zs/issues/2)
 - [ ] [Language-specific error formatting](https://github.com/unrizen/zs/issues/3)
 
-Any help is appreciated ❤️
+Help is appreciated ❤️
 
 [𝕏](https://x.com/_unrizen) | [Discord](https://discord.gg/kABMK5pHAA)
